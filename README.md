@@ -14,7 +14,7 @@ nginx 80
 
 mysql 3306
 
-phpmyadmin 8081
+phpmyadmin 8080
 
 # Run your containers
 docker-compose up -d nginx mysql phpmyadmin redis workspace 
